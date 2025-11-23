@@ -59,11 +59,3 @@ javac FetchData.java
 java FetchData
 
 
-----
-
---- Users Table Data ---
-Name: Rajib | Email: Rajib@gmail.com | Gender: male
-Name: Sonu  | Email: Sonu@gmail.com  | Gender: male
-Name: Niki  | Email: Niki@gmail.com  | Gender: female
-------------------------
-
