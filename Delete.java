@@ -12,7 +12,7 @@ public class Delete{
             // Estabilish connection
             String url = "jdbc:mysql://localhost:3306/jdbc_db";
             String user = "root";
-            String password = "Rajib@8018#";
+            String password = "xxxxxx";
 
             Connection con = DriverManager.getConnection(url, user, password);
             System.out.println("Connection established");
